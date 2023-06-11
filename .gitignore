@@ -1,0 +1,44 @@
+# macOS .DS_Store files
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiled binary addons
+build/Release
+
+# Dependency files
+*.d.ts
+*.map
+
+# Build output
+dist/

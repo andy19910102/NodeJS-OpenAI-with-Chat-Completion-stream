@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-openai-with-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "openai": "^3.2.1"
+  }
+}
